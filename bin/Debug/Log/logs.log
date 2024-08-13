@@ -3,3 +3,8 @@ Register Route -> /error : 8/13/2024 10:58:31 PM
 Register Route -> /welcome : 8/13/2024 10:58:31 PM
 Route Register -> Success : 8/13/2024 10:58:31 PM
 Http Status -> Started : 8/13/2024 10:58:31 PM
+Request GET -> Receive from 127.0.0.1:51329 Route ->  : 8/13/2024 10:59:12 PM
+Request GET -> Receive from 127.0.0.1:51332 Route -> apple-touch-icon-precomposed.png : 8/13/2024 10:59:13 PM
+Request GET -> Receive from 127.0.0.1:51332 Route -> apple-touch-icon.png : 8/13/2024 10:59:13 PM
+Request GET -> Receive from 127.0.0.1:51329 Route -> favicon.ico : 8/13/2024 10:59:13 PM
+Request GET -> Receive from 127.0.0.1:51517 Route -> welcome : 8/13/2024 11:02:39 PM
